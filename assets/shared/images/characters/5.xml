@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jump.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="4000" height="2250" pivotX="809" pivotY="3546" frameX="-67" frameY="0" frameWidth="4115" frameHeight="2337"/>
+</TextureAtlas>
